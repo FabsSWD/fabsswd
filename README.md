@@ -28,11 +28,11 @@ const fabs = {
 - **Founder & Software Developer at CherryDev (2020 – 2023)**  
   Led and developed diverse mobile applications using JavaScript, HTML5, and various frameworks. Conducted comprehensive code reviews and provided effective problem-solving solutions, enhancing project delivery and team performance.
 
+- **Intern at SES Digital (Oct 2023 – Nov 2023)**  
+  Assisted with research, data analysis, and collaborated on technical projects using specialized banking software.
+
 - **Freelance Software Developer (2023 – Present)**  
   Crafting custom software solutions for clients, managing multiple projects from initial consultation to delivery. Specialized in Full-Stack development with robust client communication and technology integration.
-
-- **Intern at SES Digital (Oct 2023 – Nov 2021)**  
-  Assisted with research, data analysis, and collaborated on technical projects using specialized banking software.
 
 ## 🔧 Current Project
 🎯 *Working on an AI-powered platform for predictive analytics*: Integrating machine learning models to analyze and forecast trends in data, utilizing Python, TensorFlow, and cloud solutions with AWS.
