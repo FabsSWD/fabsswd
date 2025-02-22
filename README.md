@@ -17,7 +17,7 @@ I am a dedicated developer who thrives on solving complex problems and building 
 ```javascript
 const fabs = {
   languages: ["Python", "JavaScript", "Java", "C++", "C#", "RPG", "HTML5", "CSS", "TypeScript", "PHP", "SQL", "Go", "Swift"],
-  frameworks: ["React", "Angular", "Vue.js", "Node.js", "Spring Boot", "Django", "Flask", "TensorFlow", ".NET"],
+  frameworks: ["React", "Angular", "Vue.js", "Node.js", "Express.js" "Spring Boot", "Django", "Flask", "TensorFlow", ".NET"],
   tools: ["AWS", "Docker", "Kubernetes", "Git", "Jenkins", "Unity", "Unreal Engine", "Blender", "IBM i", "Postman"],
   databases: ["MySQL", "PostgreSQL", "MongoDB", "Firebase", "SQLite"],
   expertise: ["Full-Stack Development", "Mobile App Development", "Project Management", "Code Review", "Agile SCRUM"]
@@ -52,14 +52,13 @@ As a Full-Stack Developer, I have experience building:
 ## 🏆 Achievements & Highlights
 - 🥇 **Certified Python Developer**
 - 🛡️ **Proficient in AI and Machine Learning Solutions**
-- 🏅 **Full-Stack Web Development Specialization**
-- 🌟 **Contributor to Open Source Projects**
+- 🏅 **Full-Stack Development Specialization**
 
 ## 🦄 Fun Facts
-- 🌱 I am currently exploring **blockchain technologies** and **AI model optimization**.
+- 🌱 I am currently exploring **MERN Stack** and **MoE models**.
 - 🎮 Game development enthusiast: I enjoy creating prototypes and game mechanics.
 - 📚 Lifelong learner: I am always looking to acquire new skills and stay updated with the latest trends.
-- ⚡ Fun fact: I have a background in Muay-Thai, which helps me stay disciplined and focused.
+- ⚡ Fun fact: I have a background in Martial Arts, which helps me stay disciplined and focused.
 
 ---
 
