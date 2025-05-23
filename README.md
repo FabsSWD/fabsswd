@@ -6,7 +6,10 @@
 💻 *Solving problems, creating seamless digital experiences, and pushing boundaries in tech.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/fabarcamonge/)  
+
 ✉️ [fabarcamonge@gmail.com](mailto:fabarcamonge@gmail.com)
+
+✉️ [info@frameworksoft.io](mailto:info@frameworksoft.io)
 
 ---
 
@@ -55,7 +58,7 @@ As a Full-Stack Developer, I have experience building:
 - 🏅 **Full-Stack Development Specialization**
 
 ## 🦄 Fun Facts
-- 🌱 I am currently exploring **MERN Stack** and **MoE models**.
+- 🌱 I am currently exploring **ThreeJS**.
 - 🎮 Game development enthusiast: I enjoy creating prototypes and game mechanics.
 - 📚 Lifelong learner: I am always looking to acquire new skills and stay updated with the latest trends.
 - ⚡ Fun fact: I have a background in Martial Arts, which helps me stay disciplined and focused.
@@ -63,7 +66,8 @@ As a Full-Stack Developer, I have experience building:
 ---
 
 ## 📫 Contact Information
-- **Email**: [fabarcamonge@gmail.com](mailto:fabarcamonge@gmail.com)
+- **Personal Email**: [fabarcamonge@gmail.com](mailto:fabarcamonge@gmail.com)
+- **Work Email**: [info@frameworksoft.io](mailto:info@frameworksoft.io)
 - **LinkedIn**: [Connect with me](https://www.linkedin.com/in/fabarcamonge/)
 
 ---
