@@ -49,10 +49,6 @@ As a Full-Stack Developer, I have experience building:
 - **Blockchain Projects**: Developing smart contracts and decentralized apps (DApps).
 - **AI Agents**: Trained and deployed multiple AI models.
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fabsswd&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabsswd&layout=compact&theme=radical)
-
 ## 🏆 Achievements & Highlights
 - 🥇 **Certified (Senior) Python Developer**
 - 🛡️ **Proficient in AI and Machine Learning Solutions**
