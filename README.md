@@ -183,7 +183,7 @@ const fabs = {
 | 🤖 **AI & Machine Learning** | Proficient in developing and deploying AI solutions |
 | 🌐 **Full-Stack Specialization** | Expert in end-to-end application development |
 | 🎓 **Technical Degree in AI** | Specialized education in Artificial Intelligence |
-| 📋 **PMP Certification** | Pursuing Project Management Professional (Q2 2026) |
+| 📋 **PMP Certification** | Pursuing Project Management Professional (Q2 2027) |
 
 </div>
 
