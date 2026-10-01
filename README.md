@@ -137,18 +137,6 @@ const fabs = {
 </details>
 
 <details>
-<summary><b>🚀 Founder & Software Developer @ CherryDev</b> (2020 - 2023)</summary>
-<br>
-
-- 📱 Led development of diverse mobile applications using modern frameworks
-- 👨‍💻 Conducted comprehensive code reviews and quality assurance
-- 🎯 Managed end-to-end project delivery and client relationships
-- 💡 Enhanced team performance through mentorship and best practices
-- 🛠️ Built custom solutions using JavaScript, HTML5, and various frameworks
-
-</details>
-
-<details>
 <summary><b>💻 Freelance Software Developer</b> (2023 - 2025)</summary>
 <br>
 
@@ -168,6 +156,18 @@ const fabs = {
 - 🏛️ Collaborated on technical projects using specialized banking software
 - 📊 Gained experience in financial technology sector
 - 🤝 Worked with cross-functional teams on enterprise solutions
+
+</details>
+
+<details>
+<summary><b>🚀 Founder & Software Developer @ CherryDev</b> (2020 - 2023)</summary>
+<br>
+
+- 📱 Led development of diverse mobile applications using modern frameworks
+- 👨‍💻 Conducted comprehensive code reviews and quality assurance
+- 🎯 Managed end-to-end project delivery and client relationships
+- 💡 Enhanced team performance through mentorship and best practices
+- 🛠️ Built custom solutions using JavaScript, HTML5, and various frameworks
 
 </details>
 
